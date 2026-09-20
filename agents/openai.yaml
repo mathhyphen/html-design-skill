@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML 设计"
+  short_description: "把页面目标转成有鲜明风格的响应式 HTML，涵盖设计探索、素材组织与视觉评审"
+  default_prompt: "使用 $html-design，根据我的需求设计并实现一个有鲜明视觉方向、可运行的响应式 HTML 页面，完成预览检查与必要的设计迭代。"
